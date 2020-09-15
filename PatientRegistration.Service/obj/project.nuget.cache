@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gC9UVmWer1WTEQJpQ9wrwLG6Wa2xyKP7reIdqmDP7vCf+bH2cR8n/WsGCT323loexAw1IQNixnGu4b8Qrnlh6A==",
+  "success": true,
+  "projectFilePath": "E:\\Assignment\\.net Core Applications\\PatientRegistration\\PatientRegistration.Service\\PatientRegistration.Service.csproj",
+  "expectedPackageFiles": [
+    "E:\\nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "E:\\nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "E:\\nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "E:\\nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
